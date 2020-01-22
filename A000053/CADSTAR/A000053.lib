@@ -1,0 +1,17 @@
+.A000053 :1 ;Arduino Micro Arduino Micro
+HDRV34W70P1570X254_2X17_4900X1800X1600P
+*STM IC
+*NGS
+*PLB 1="MOSI" 2="RX_LED/SS" 3="1/TX" 4="0/RX" 5="RESET_1" 6="GND_1" 7="2/SDA" 8="3(PWM)/SCL" 9="4/A6" 10="5(PWM)" 11="6(PWM)/A7" 12="7" 13="8/A8" 14="9(PWM)/A9" 15="10(PWM)/A10" 16="11(PWM)" 17="12/A11" 18="13(PWM)" 19="3.3V" 20="AREF" 21="A0" 22="A1" 23="A2" 24="A3" 25="A4" 26="A5" 27="NC_1" 28="NC_2" 29="+5V" 30="RESET_2" 31="GND_2" 32="VIN" 33="MISO" 34="SCK"
+*MXP 34
+*DFN A000053
+~!Manufacturer_Name (Arduino)
+~!Manufacturer_Part_Number (A000053)
+~!Mouser Part Number (782-A000053)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=782-A000053)
+~!RS Part Number (7717667)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/7717667)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/7717667)
+~!Height (16mm)
+A000053
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!G 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 

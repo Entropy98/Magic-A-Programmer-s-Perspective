@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A000053'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Arduino", "A000053" (!) = "", "HDRV34W70P1570X254_2X17_4900X1800X1600P", "Header, Vertical", "782-A000053", "https://www.mouser.com/Search/Refine.aspx?Keyword=782-A000053", "7717667", "http://uk.rs-online.com/web/p/products/7717667", "Arduino Micro Arduino Micro", "http://uk.rs-online.com/web/p/products/7717667", "16 mm"
+END_PART
+
+END.
